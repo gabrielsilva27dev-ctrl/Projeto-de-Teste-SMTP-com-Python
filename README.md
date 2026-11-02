@@ -1,9 +1,34 @@
-# Projeto-de-Teste-SMTP-com-Python
-Este projeto foi desenvolvido para estudar conceitos de Python relacionados a:  Variáveis de ambiente;  Envio de e-mails utilizando SMTP;  Manipulação de mensagens com MIMEText;  Tratamento de exceções;  Execução de tarefas temporizadas com Timer.  O projeto utiliza o servidor SMTP do Gmail para realizar testes de autenticação e envio de mensagens. 
+# Projeto Python — Estudos de Cybersecurity
 
-#Tecnologias utilizadas
- *Python 3
- *smtplib
- *email.mime.text
- *os
- *threading
+## Sobre o projeto
+
+Projeto desenvolvido com finalidade educacional para praticar conceitos de Python, comunicação SMTP e automação.
+
+## Tecnologias utilizadas
+
+- Python
+- SMTP
+- Biblioteca smtplib
+- Biblioteca threading
+- Variáveis de ambiente
+
+## Conceitos estudados
+
+- Funções em Python
+- Variáveis de ambiente com `os.getenv()`
+- Envio de mensagens com SMTP
+- Tratamento de exceções (`try` e `except`)
+- Execução de tarefas com `Timer`
+- Organização e segurança de código
+
+## Configuração
+
+As credenciais são armazenadas em variáveis de ambiente, evitando sua exposição diretamente no código.
+
+## Segurança
+
+Este projeto tem finalidade educacional. Não publique senhas, tokens ou informações pessoais no repositório.
+
+## Objetivo
+
+Desenvolver conhecimentos práticos em Python e fundamentos de segurança da informação.
